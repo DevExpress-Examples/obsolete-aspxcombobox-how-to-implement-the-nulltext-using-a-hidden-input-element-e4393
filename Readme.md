@@ -2,9 +2,9 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 * [NullTextUserControl.ascx](./CS/WebSite/NullTextUserControl.ascx) (VB: [NullTextUserControl.ascx](./VB/WebSite/NullTextUserControl.ascx))
-* [NullTextUserControl.ascx.cs](./CS/WebSite/NullTextUserControl.ascx.cs) (VB: [NullTextUserControl.ascx](./VB/WebSite/NullTextUserControl.ascx))
+* [NullTextUserControl.ascx.cs](./CS/WebSite/NullTextUserControl.ascx.cs) (VB: [NullTextUserControl.ascx.vb](./VB/WebSite/NullTextUserControl.ascx.vb))
 * [ScriptFile.js](./CS/WebSite/Scripts/ScriptFile.js) (VB: [ScriptFile.js](./VB/WebSite/Scripts/ScriptFile.js))
 <!-- default file list end -->
 # OBSOLETE - ASPxComboBox - How to implement the NullText using a hidden input element
