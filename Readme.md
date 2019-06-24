@@ -8,6 +8,9 @@
 * [ScriptFile.js](./CS/WebSite/Scripts/ScriptFile.js) (VB: [ScriptFile.js](./VB/WebSite/Scripts/ScriptFile.js))
 <!-- default file list end -->
 # OBSOLETE - ASPxComboBox - How to implement the NullText using a hidden input element
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4393)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to show/hide controls to implement the NullText functionality. The main idea is to add an additional fake element to the page. When this element gets focus, it is necessary to hide this element and show the real ASPxComboBox. If the latter is empty when it loses focus, it is necessary to hide the ASPxComboBox and show the fake element again:</p>
